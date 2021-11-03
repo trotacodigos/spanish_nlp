@@ -1,0 +1,7 @@
+!pip install beautifulsoup4
+!pip install spacy==3.1
+!python -m spacy download es
+!pip install textacy
+!pip install wordcloud
+!pip install sentiment_analysis_spanish
+!pip install seaborn
