@@ -5,3 +5,4 @@
 
 This repository provides examples of Spanish text analysis.
 
+<img src="./wordcloud.png" width="100px" height="50px" title="distopia"></img>
